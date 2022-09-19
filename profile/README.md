@@ -1,5 +1,5 @@
 # Welcome To Mahda System Organization
-Just Feel free to use our useful repos related to embedded and much more! 😁
+Just feel free to use our useful repositories related to embedded and much more! 😁
 
 <!--
 
